@@ -12,7 +12,6 @@ app.get('/', (req, res) => {
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝ ╚═════╝ 
                                             
 running on ${process.env.HOSTNAME}
-Hello World!
 `)
 })
 
